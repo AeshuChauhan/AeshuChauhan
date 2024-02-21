@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  src="https://media.licdn.com/dms/image/D4D16AQE6aS1InZhyhA/profile-displaybackgroundimage-shrink_350_1400/0/1681415008560?e=1714003200&v=beta&t=Cg53B6bpGdgo7YWxC_WUID0v3F0Wc5ch9eWmlXGOuMM">
+<img align="center" alt="Coding"  src="http://bachelorexam.com/wp-content/uploads/2023/11/gitBG.png">
 <h1 align="center">Hi 👋, I'm Aeshu Chauhan </h1>
 <h3 align="center">Senior Engineer at Nagarro || MERN || NEXTjs || Reactjs || NodeJs || Javascript</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
