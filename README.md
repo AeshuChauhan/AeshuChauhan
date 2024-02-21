@@ -1,8 +1,10 @@
-# 😊 About Me:
-I have 5.5 yrs of IT experience spanning E-commerce, Job Portals, and Fraud Payment Prevention domains. Skilled in ReactJS, redux, NextJs & NodeJs, I focus on delivering effective solutions and stay updated with tech advancements for continual improvement.
+<img align="center" alt="Coding"  src="https://media.licdn.com/dms/image/D4D16AQE6aS1InZhyhA/profile-displaybackgroundimage-shrink_350_1400/0/1681415008560?e=1714003200&v=beta&t=Cg53B6bpGdgo7YWxC_WUID0v3F0Wc5ch9eWmlXGOuMM">
+<h1 align="center">Hi 👋, I'm Aeshu Chauhan </h1>
+<h3 align="center">Senior Engineer at Nagarro || MERN || NEXTjs || Reactjs || NodeJs || Javascript</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 👨‍💻 **I’m currently working on:**  
-Full-stack development with React .
+Full-stack development with NextJS.
 
 👯 **I’m looking to collaborate on:**  
 Fullstack projects
